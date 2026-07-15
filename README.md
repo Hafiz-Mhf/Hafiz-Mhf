@@ -1,9 +1,10 @@
 # 🌌 Muhammad Hafiz Faruqi
 
+<!--
 <p align="center">
-  <!-- Top Banner -->
   <img src="YOUR_BANNER_IMAGE_URL" alt="Banner" width="100%">
 </p>
+-->
 
 <div align="center">
   <!-- Social Badges using shields.io -->
@@ -61,7 +62,8 @@ I'm **Hafiz Faruqi**, IT graduate and **QA Engineer** based in Malaysia. I focus
   <img alt="Snake Contribution Graph" src="https://raw.githubusercontent.com/Hafiz-Mhf/Hafiz-Mhf/output/github-contribution-grid-snake.svg">
 </picture>
 
+<!--
 <p align="center">
-  <!-- Bottom Banner -->
   <img src="YOUR_FOOTER_IMAGE_URL" alt="Footer Banner" width="100%">
 </p>
+-->
