@@ -41,6 +41,17 @@ I'm **Hafiz Faruqi**, IT graduate and **QA Engineer** based in Malaysia. I focus
 | **CObot+** | Robotic attendance & control interface. | Next.js, Python, OpenCV | [Visit](https://...) |
 | **EPMIS Automation** | Python browser test automation suite. | Python, Selenium | [Visit](https://...) |
 
+## 📊 Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hafiz-Mhf&show_icons=true&theme=transparent" alt="Hafiz's GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafiz-Mhf&layout=compact&theme=transparent" alt="Top Languages" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/normal-badge/?username=Hafiz-Mhf&color=508216&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
 ---
 
 ## 📈 GitHub Activity
