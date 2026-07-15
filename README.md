@@ -45,12 +45,12 @@ I'm **Hafiz Faruqi**, IT graduate and **QA Engineer** based in Malaysia. I focus
 ## 📊 Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hafiz-Mhf&show_icons=true&theme=transparent" alt="Hafiz's GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafiz-Mhf&layout=compact&theme=transparent" alt="Top Languages" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Hafiz-Mhf&show_icons=true&theme=transparent" alt="Hafiz's GitHub stats" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hafiz-Mhf&layout=compact&theme=transparent" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/normal-badge/?username=Hafiz-Mhf&color=508216&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Hafiz-Mhf&color=508216&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
 ---
