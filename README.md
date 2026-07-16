@@ -40,6 +40,7 @@ I'm **Hafiz Faruqi**, IT graduate and **QA Engineer** based in Malaysia. I focus
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **JobTrackr** | Smart, zero-cost developer job application tracker with offline JD parsing and Kanban board. | Next.js 16, React 19, TypeScript, Supabase | [Visit](https://jobtrackr.hafizfaruqi.my) |
+| **LogSieve** | High-performance, local-first server log analyzer featuring SQLite WebAssembly and a background Web Worker thread. | React 19, SQLite Wasm (sql.js), TypeScript, Tailwind CSS v4 | [Visit](https://github.com/Hafiz-Mhf/logsieve) |
 | **Hafiz HQ** | Personal command center, portfolio website, and interactive service quote builder. | Next.js, TypeScript, Tailwind CSS, Framer Motion | [Visit](https://www.hafizfaruqi.my) |
 | **SKKG OPR Generator** | Offline-first school program report generator featuring stepper form wizard and A4 print optimization. | HTML5, CSS3, ES6 JavaScript | [Visit](https://opr-sk-kubang-gajah.vercel.app) |
 | **CObot+** | Robotic attendance & control interface. | Next.js, Python, OpenCV | [Visit](https://...) |
